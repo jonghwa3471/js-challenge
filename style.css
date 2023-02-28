@@ -1,0 +1,8 @@
+.set_number span {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.guess_number {
+  margin-top: 15px;
+}
